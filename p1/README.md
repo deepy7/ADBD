@@ -17,8 +17,8 @@
   - sudo su postgres
   - psql
   - \l
-  - \c pract1
   - CREATE DATABASE pract1;
+  - \c pract1
   - create table usuarios (nombre varchar(30),clave varchar(10));
   - insert into usuarios (nombre, clave) values ('Isa','asdf');
   - insert into usuarios (nombre, clave) values ('Pablo','jfx344');
