@@ -27,3 +27,4 @@
   - \d usuarios
   - SELECT * FROM usuarios;
   - \s
+  - \q
